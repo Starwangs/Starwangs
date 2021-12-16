@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Starwangs
 - 👀 I’m interested in HTML CSS JavaScript Svelte Node.js
 - 🌱 I’m currently learning 🧐🧐🧐
-- 💞️ I’m looking to collaborate on กช.
+- 💞️ I’m looking to collaborate on 🧚‍♂️✨.
 - 📫 How to reach me Facebook: เฟิร์ส ชัยภัทร, IG: f.chaiyapat
 
 <!---
